@@ -33,16 +33,6 @@
                 <x-tag size="base">Graphic</x-tag>
                 <x-tag size="base">Producer</x-tag>
                 <x-tag size="base">React</x-tag>
-                <x-tag size="base">Vue</x-tag>
-                <x-tag size="base">HTML</x-tag>
-                <x-tag size="base">CSS</x-tag>
-                <x-tag size="base">Tailwind</x-tag>
-                <x-tag size="base">Typescript</x-tag>
-                <x-tag size="base">Wordpress</x-tag>
-                <x-tag size="base">Theme</x-tag>
-                <x-tag size="base">Plugin</x-tag>
-                <x-tag size="base">AWS</x-tag>
-            </div>
         </section>
 
         <section>
