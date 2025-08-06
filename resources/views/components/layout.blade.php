@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
-<body class="bg-[#060606] text-white">
+<body class="bg-primary text-white">
 
     <div class="px-10">
         <nav class="flex justify-between items-center border-b border-white/10 py-5">
