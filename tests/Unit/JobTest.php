@@ -16,3 +16,14 @@ it('belong to an employer', function () {
 
 });
 
+
+it('can have tags', function () {
+    //AAA
+
+    $job = Job::factory()->create();
+
+    $job->tag('Frontend');
+
+    expect($job->tags)->toHaveCount(1);
+});
+
