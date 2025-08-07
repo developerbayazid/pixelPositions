@@ -4,8 +4,9 @@
 
         <section class="text-center pt-10">
             <h1 class="text-4xl font-bold">Let's Find Your Next Job.</h1>
-            <form action="" class="mt-6">
-                <input type="text" placeholder="Web Developer..." class="bg-white/5 rounded-xl px-5 py-4 w-full max-w-lg">
+            <form action="/search" class="mt-6">
+                @csrf
+                <input type="text" name="search" placeholder="Web Developer..." class="bg-white/5 rounded-xl px-5 py-4 w-full max-w-lg">
             </form>
         </section>
 
